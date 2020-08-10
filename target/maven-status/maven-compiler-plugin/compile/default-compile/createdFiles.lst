@@ -1,3 +1,4 @@
 com\example\workflow\bpmn\task\LoanProcessDeligate.class
 com\example\workflow\Application.class
 com\example\workflow\bpmn\task\LoanProcessIntermediateDeligate.class
+com\example\workflow\bpmn\task\TimerTask.class
